@@ -2,9 +2,11 @@
 Biblioteca com as Operações de uma Calculadora em Python
 
 ## Operações Suportadas
-- Soma
-- Subtração
-- Multiplicação
-- Divisão
-- Potência
-- Raiz
+- soma: Soma
+- subs: Subtração
+- mult: Multiplicação
+- divs: Divisão
+- powX: Potência
+- pow2: Potência de 2
+- raiz: Raiz
+- rzqd: Raiz Quadrada
