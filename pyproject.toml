@@ -4,13 +4,18 @@ version = "0.1.1"
 authors = [
   { name="Nicolas Botelho", email="nicolasbotelho2005@gmail.com" },
 ]
+
 description = "Biblioteca de operações matemáticas básicas"
+
 readme = "README.md"
-requires-python = ">=3.9"
+
+requires-python = ">=3.8"
+
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
+
 license = "MIT"
 license-files = ["LICEN[CS]E*", "LICENCE.md"]
 
